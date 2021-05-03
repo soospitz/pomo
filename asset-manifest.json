@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pomo/static/css/main.da2130f5.chunk.css",
+    "main.js": "/pomo/static/js/main.539928d3.chunk.js",
+    "main.js.map": "/pomo/static/js/main.539928d3.chunk.js.map",
+    "runtime-main.js": "/pomo/static/js/runtime-main.60e3164c.js",
+    "runtime-main.js.map": "/pomo/static/js/runtime-main.60e3164c.js.map",
+    "static/js/2.e39f3405.chunk.js": "/pomo/static/js/2.e39f3405.chunk.js",
+    "static/js/2.e39f3405.chunk.js.map": "/pomo/static/js/2.e39f3405.chunk.js.map",
+    "static/js/3.30f6d108.chunk.js": "/pomo/static/js/3.30f6d108.chunk.js",
+    "static/js/3.30f6d108.chunk.js.map": "/pomo/static/js/3.30f6d108.chunk.js.map",
+    "index.html": "/pomo/index.html",
+    "static/css/main.da2130f5.chunk.css.map": "/pomo/static/css/main.da2130f5.chunk.css.map",
+    "static/js/2.e39f3405.chunk.js.LICENSE.txt": "/pomo/static/js/2.e39f3405.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60e3164c.js",
+    "static/js/2.e39f3405.chunk.js",
+    "static/css/main.da2130f5.chunk.css",
+    "static/js/main.539928d3.chunk.js"
+  ]
+}
